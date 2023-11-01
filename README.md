@@ -50,7 +50,7 @@
 <발표 후 작성>
 
 <br>
-<img src="../img/img1.png">
+<img src="./img/img1.png">
 
 <hr>
 
