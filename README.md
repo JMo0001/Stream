@@ -50,7 +50,8 @@
 <발표 후 작성>
 
 <br>
-<hr>
+<hr>[박준모님 출석부.pdf](https://github.com/JMo0001/Stream/files/13224403/default.pdf)
+
 
 ## 🖥️ 개발환경
 
